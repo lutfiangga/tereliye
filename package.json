@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@popperjs/core": "^2.11.8",
+    "alpinejs": "^3.12.1"
+  }
+}
